@@ -30,6 +30,7 @@ li {
   font-weight: bold;
   background: #2f3c7e;
   color: #fbeaeb;
+  align-items: center;
 }
 .cart-actions {
   color: white;
@@ -37,4 +38,5 @@ li {
   width: 50px;
   border: none;
   background: rgb(10, 7, 24);
+  margin-top: 0;
 }
